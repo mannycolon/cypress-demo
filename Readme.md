@@ -3,6 +3,7 @@
 ## To do
 
 - https://docs.cypress.io/examples/examples/tutorials#Test-a-React-Todo-App
+- https://egghead.io/lessons/cypress-course-introduction-test-production-ready-apps-with-cypress
 
 ## Setup Instructions
 
