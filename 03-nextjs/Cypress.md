@@ -1,6 +1,6 @@
 # Cypress
 
-Cypress is a test runner used for End-to-End (E2E) and Integration Testing.
+Cypress is a test runner used for End-to-End (E2E) and Integration Testing. Check [Next.js Testing](https://nextjs.org/docs/testing#quickstart-1) for more.
 
 ## Setup
 
